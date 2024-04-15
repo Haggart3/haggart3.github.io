@@ -106,12 +106,12 @@ html,body{
 }
 @media (min-width: 1024px){}
 nav.navbar.bootsnav.no-background {
-    background-color: #a09f9f;
+    background-color: #474646;
     border: none;
 }
 
 nav.navbar.bootsnav {
-    background-color: #a09f9f;
+    background-color: #474646;
     border-bottom: transparent;
     box-shadow: 0 3px 15px rgba(238, 238, 238, 0.2);
 }
@@ -329,7 +329,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
 --------------------------------------*/
 
 .education {
-    background:  #f9fbfd;
+    background:  #474646;
     padding-top:  50px;
 }
 .education-horizontal-timeline {
@@ -689,7 +689,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
         11. Contact
 --------------------------------------*/
 .contact {
-    background: #f9fbfd;
+    background: #474646;
     padding: 50px 0 100px;
 }
 .single-contact-box {padding-top: 100px;}
