@@ -41,7 +41,7 @@ body{
 	font-family: 'Poppins', sans-serif;
 	font-size:16px;
 	color: #ff0511;
-	background: #fff;
+	background: #474646;
     max-width:1920px;
     margin:0 auto;
 	overflow-x:hidden;
@@ -56,7 +56,7 @@ a,a:hover,a:active,a:focus {
 }
 h1,h2,h3,h4,h5,h6 { 
 	margin: 0;
-	color:#43485c;
+	color:#f1f1f1;
     font-size: 16px;
 	font-family: 'Poppins', sans-serif;
 	text-transform: capitalize;
@@ -64,7 +64,7 @@ h1,h2,h3,h4,h5,h6 {
 p {
 	margin: 0;
 	line-height:1.8;
-	color:#43485c;
+	color:#f1f1f1;
 	font-size:14px;
 	font-family: 'Poppins', sans-serif;
 }
